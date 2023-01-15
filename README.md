@@ -5,6 +5,8 @@ We intially had data onto the Kaggle.com.We build a landing area and uploaded al
 
 ![yar](https://user-images.githubusercontent.com/106689439/212522730-cc2a3c6c-8dba-46b3-8c5d-40e4840c1e23.jpg)
 
+![ss](https://user-images.githubusercontent.com/106689439/212527366-8b561833-0efa-45ba-9f69-ef1e2488b3b2.jpg)
+
 
 
  
