@@ -8,13 +8,17 @@ We intially had data onto the Kaggle.com.We build a landing area and uploaded al
 ![yar](https://user-images.githubusercontent.com/106689439/212522730-cc2a3c6c-8dba-46b3-8c5d-40e4840c1e23.jpg)
 
 ## Technology Used
-- Programming Language - Python
+- Programming Language - SQL, Python and Pyspark
 - Amazon Web Service (AWS)
 1. S3 (Simple Storage Service)
 2. Athena
 3. Glue Crawler
 4. Glue Catalog
 5. EC2
+6. Redshift
+7. IAM
+8. Lambda
+9. Quicksight
 - Apache Kafka
 
 ## Visualisation(Quicksight)
