@@ -17,7 +17,7 @@ We intially had data onto the Kaggle.com.We build a landing area and uploaded al
 5. EC2
 - Apache Kafka
 
-##Visualisation(Quicksight)
+## Visualisation(Quicksight)
 ![ss](https://user-images.githubusercontent.com/106689439/212527366-8b561833-0efa-45ba-9f69-ef1e2488b3b2.jpg)
 
 
