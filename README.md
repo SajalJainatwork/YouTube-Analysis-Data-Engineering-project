@@ -21,6 +21,7 @@ I initially had data onto Kaggle.com.I built a landing area and uploaded all the
 
 ## Technology Used
 ✅ Programming Language - SQL, Python, and Pyspark
+
 ✅ Amazon Web Service (AWS)
 1. S3 (Simple Storage Service)
 2. Athena
@@ -31,6 +32,7 @@ I initially had data onto Kaggle.com.I built a landing area and uploaded all the
 7. IAM
 8. Lambda
 9. Quicksight
+
 ✅ Building Data Pipeline and Scheduling it.
 
 ## Quicksight Visualisation
