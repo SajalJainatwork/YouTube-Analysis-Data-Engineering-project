@@ -20,8 +20,8 @@ I initially had data onto Kaggle.com.I built a landing area and uploaded all the
 ![yar](https://user-images.githubusercontent.com/106689439/212522730-cc2a3c6c-8dba-46b3-8c5d-40e4840c1e23.jpg)
 
 ## Technology Used
-- Programming Language - SQL, Python, and Pyspark
-- Amazon Web Service (AWS)
+✅ Programming Language - SQL, Python, and Pyspark
+✅ Amazon Web Service (AWS)
 1. S3 (Simple Storage Service)
 2. Athena
 3. Glue Crawler
@@ -31,7 +31,7 @@ I initially had data onto Kaggle.com.I built a landing area and uploaded all the
 7. IAM
 8. Lambda
 9. Quicksight
-- Building Data Pipeline and Scheduling it.
+✅ Building Data Pipeline and Scheduling it.
 
 ## Quicksight Visualisation
 ![ss](https://user-images.githubusercontent.com/106689439/212527366-8b561833-0efa-45ba-9f69-ef1e2488b3b2.jpg)
