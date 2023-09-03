@@ -23,15 +23,15 @@ I initially had data onto Kaggle.com.I built a landing area and uploaded all the
 ✳Programming Language - SQL, Python, and Pyspark
 
 ✳Amazon Web Service (AWS)
-1. S3 (Simple Storage Service)
-2. Athena
-3. Glue Crawler
-4. Glue Catalog
-5. EC2
-6. Redshift
-7. IAM
-8. Lambda
-9. Quicksight
+✴S3 (Simple Storage Service)
+✴Athena
+✴Glue Crawler
+✴Glue Catalog
+✴EC2
+✴Redshift
+✴IAM
+✴Lambda
+✴Quicksight
 
 ✳Building Data Pipeline and Scheduling it.
 
