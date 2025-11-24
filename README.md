@@ -1,3 +1,6 @@
+<img width="1877" height="857" alt="ytt" src="https://github.com/user-attachments/assets/6c0e9dfd-a598-4cf0-8002-63e8af6b1797" />
+
+
 # YouTube Data Analysis End-To-End Data Engineering Project using Python and AWS.
 
 ## Introduction 
